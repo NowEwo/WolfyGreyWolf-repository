@@ -3,5 +3,10 @@
         "Name" : "Test ( Wolfy )",
         "Description" : "Just a test for apt in the WolfyGreyWolf repository !",
         "PackageName" : "WolfyTest"
+    },
+    {
+        "Name" : "Uncompatible ( Test )",
+        "Description" : "This app seems to be uncompatible !",
+        "API" : 999999999
     }
 ]
