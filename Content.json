@@ -5,8 +5,8 @@
         "PackageName" : "WolfyTest"
     },
     {
-        "Name" : "Uncompatible ( Test )",
-        "Description" : "This app seems to be uncompatible !",
+        "Name" : "Incompatible ( Test )",
+        "Description" : "This app seems to be incompatible !",
         "API" : 999999999
     }
 ]
