@@ -1,0 +1,7 @@
+[
+    {
+        "Name" : "Test ( Wolfy )",
+        "Description" : "Just a test for apt in the WolfyGreyWolf repository !",
+        "PackageName" : "WolfyTest"
+    }
+]
