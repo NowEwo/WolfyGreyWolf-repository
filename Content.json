@@ -2,7 +2,17 @@
     {
         "Name" : "Test ( Wolfy )",
         "Description" : "Just a test for apt in the WolfyGreyWolf repository !",
-        "PackageName" : "WolfyTest"
+        "PackageName" : "WolfyTest",
+        "StartMenuEntry" : {
+            "Name" : "Test !",
+            "Description" : "Just a test for apt in the WolfyGreyWolf repository !",
+            "PackageName" : "settings"
+        }
+    },
+    {
+        "Name" : "Incompatible ( Test )",
+        "Description" : "This app seems to be incompatible !",
+        "API" : 999999999
     },
     {
         "Name" : "Incompatible ( Test )",
